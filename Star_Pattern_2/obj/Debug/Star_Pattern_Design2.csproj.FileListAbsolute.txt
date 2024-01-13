@@ -1,0 +1,7 @@
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Star_Pattern_Design2\bin\Debug\Star_Pattern_Design2.exe.config
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Star_Pattern_Design2\bin\Debug\Star_Pattern_Design2.exe
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Star_Pattern_Design2\bin\Debug\Star_Pattern_Design2.pdb
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Star_Pattern_Design2\obj\Debug\Star_Pattern_Design2.csproj.AssemblyReference.cache
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Star_Pattern_Design2\obj\Debug\Star_Pattern_Design2.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Star_Pattern_Design2\obj\Debug\Star_Pattern_Design2.exe
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Star_Pattern_Design2\obj\Debug\Star_Pattern_Design2.pdb
