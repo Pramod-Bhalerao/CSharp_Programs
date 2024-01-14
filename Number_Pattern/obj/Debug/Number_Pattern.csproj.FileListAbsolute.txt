@@ -1,0 +1,7 @@
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Number_Pattern\bin\Debug\Number_Pattern.exe.config
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Number_Pattern\bin\Debug\Number_Pattern.exe
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Number_Pattern\bin\Debug\Number_Pattern.pdb
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Number_Pattern\obj\Debug\Number_Pattern.csproj.AssemblyReference.cache
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Number_Pattern\obj\Debug\Number_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Number_Pattern\obj\Debug\Number_Pattern.exe
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Number_Pattern\obj\Debug\Number_Pattern.pdb
