@@ -1,0 +1,7 @@
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Binary IO\bin\Debug\Binary IO.exe.config
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Binary IO\bin\Debug\Binary IO.exe
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Binary IO\bin\Debug\Binary IO.pdb
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Binary IO\obj\Debug\Binary IO.csproj.AssemblyReference.cache
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Binary IO\obj\Debug\Binary IO.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Binary IO\obj\Debug\Binary IO.exe
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Binary IO\obj\Debug\Binary IO.pdb
