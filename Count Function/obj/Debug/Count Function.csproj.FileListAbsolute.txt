@@ -1,0 +1,7 @@
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Count Function\bin\Debug\Count Function.exe.config
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Count Function\bin\Debug\Count Function.exe
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Count Function\bin\Debug\Count Function.pdb
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Count Function\obj\Debug\Count Function.csproj.AssemblyReference.cache
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Count Function\obj\Debug\Count Function.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Count Function\obj\Debug\Count Function.exe
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Count Function\obj\Debug\Count Function.pdb
