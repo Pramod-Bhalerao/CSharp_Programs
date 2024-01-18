@@ -1,0 +1,7 @@
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Directory info\bin\Debug\Directory info.exe.config
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Directory info\bin\Debug\Directory info.exe
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Directory info\bin\Debug\Directory info.pdb
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Directory info\obj\Debug\Directory info.csproj.AssemblyReference.cache
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Directory info\obj\Debug\Directory info.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Directory info\obj\Debug\Directory info.exe
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Directory info\obj\Debug\Directory info.pdb
