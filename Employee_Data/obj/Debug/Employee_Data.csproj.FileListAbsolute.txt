@@ -1,0 +1,7 @@
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Employee_Data\bin\Debug\Employee_Data.exe.config
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Employee_Data\bin\Debug\Employee_Data.exe
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Employee_Data\bin\Debug\Employee_Data.pdb
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Employee_Data\obj\Debug\Employee_Data.csproj.AssemblyReference.cache
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Employee_Data\obj\Debug\Employee_Data.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Employee_Data\obj\Debug\Employee_Data.exe
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Employee_Data\obj\Debug\Employee_Data.pdb
