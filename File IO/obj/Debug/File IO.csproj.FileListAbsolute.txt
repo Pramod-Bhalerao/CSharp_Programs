@@ -1,0 +1,7 @@
+C:\Users\Suraj\Desktop\C_Sharp_Programming\File IO\bin\Debug\File IO.exe.config
+C:\Users\Suraj\Desktop\C_Sharp_Programming\File IO\bin\Debug\File IO.exe
+C:\Users\Suraj\Desktop\C_Sharp_Programming\File IO\bin\Debug\File IO.pdb
+C:\Users\Suraj\Desktop\C_Sharp_Programming\File IO\obj\Debug\File IO.csproj.AssemblyReference.cache
+C:\Users\Suraj\Desktop\C_Sharp_Programming\File IO\obj\Debug\File IO.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\Desktop\C_Sharp_Programming\File IO\obj\Debug\File IO.exe
+C:\Users\Suraj\Desktop\C_Sharp_Programming\File IO\obj\Debug\File IO.pdb
