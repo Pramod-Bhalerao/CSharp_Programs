@@ -1,0 +1,7 @@
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Instance_Variable\bin\Debug\Instance_Variable.exe.config
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Instance_Variable\bin\Debug\Instance_Variable.exe
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Instance_Variable\bin\Debug\Instance_Variable.pdb
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Instance_Variable\obj\Debug\Instance_Variable.csproj.AssemblyReference.cache
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Instance_Variable\obj\Debug\Instance_Variable.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Instance_Variable\obj\Debug\Instance_Variable.exe
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Instance_Variable\obj\Debug\Instance_Variable.pdb
