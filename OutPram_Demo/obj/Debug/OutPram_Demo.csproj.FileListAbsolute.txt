@@ -1,0 +1,7 @@
+C:\Users\Suraj\Desktop\C_Sharp_Programming\OutPram_Demo\bin\Debug\OutPram_Demo.exe.config
+C:\Users\Suraj\Desktop\C_Sharp_Programming\OutPram_Demo\bin\Debug\OutPram_Demo.exe
+C:\Users\Suraj\Desktop\C_Sharp_Programming\OutPram_Demo\bin\Debug\OutPram_Demo.pdb
+C:\Users\Suraj\Desktop\C_Sharp_Programming\OutPram_Demo\obj\Debug\OutPram_Demo.csproj.AssemblyReference.cache
+C:\Users\Suraj\Desktop\C_Sharp_Programming\OutPram_Demo\obj\Debug\OutPram_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\Desktop\C_Sharp_Programming\OutPram_Demo\obj\Debug\OutPram_Demo.exe
+C:\Users\Suraj\Desktop\C_Sharp_Programming\OutPram_Demo\obj\Debug\OutPram_Demo.pdb

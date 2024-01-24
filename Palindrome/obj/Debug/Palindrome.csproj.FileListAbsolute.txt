@@ -1,0 +1,14 @@
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Palindrome\obj\Debug\Palindrome.csproj.AssemblyReference.cache
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Palindrome\obj\Debug\Palindrome.pdb
+D:\POMS\Coding\C# Programs\C#\Palindrome\bin\Debug\Palindrome.exe.config
+D:\POMS\Coding\C# Programs\C#\Palindrome\bin\Debug\Palindrome.exe
+D:\POMS\Coding\C# Programs\C#\Palindrome\bin\Debug\Palindrome.pdb
+D:\POMS\Coding\C# Programs\C#\Palindrome\obj\Debug\Palindrome.csproj.AssemblyReference.cache
+D:\POMS\Coding\C# Programs\C#\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+D:\POMS\Coding\C# Programs\C#\Palindrome\obj\Debug\Palindrome.exe
+D:\POMS\Coding\C# Programs\C#\Palindrome\obj\Debug\Palindrome.pdb
