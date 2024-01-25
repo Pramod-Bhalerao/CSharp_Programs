@@ -1,0 +1,7 @@
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Prime Number\bin\Debug\Prime Number.exe.config
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Prime Number\bin\Debug\Prime Number.exe
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Prime Number\bin\Debug\Prime Number.pdb
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Prime Number\obj\Debug\Prime Number.csproj.AssemblyReference.cache
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Prime Number\obj\Debug\Prime Number.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Prime Number\obj\Debug\Prime Number.exe
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Prime Number\obj\Debug\Prime Number.pdb
