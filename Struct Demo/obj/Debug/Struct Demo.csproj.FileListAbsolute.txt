@@ -1,0 +1,7 @@
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Struct Demo\bin\Debug\Struct Demo.exe.config
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Struct Demo\bin\Debug\Struct Demo.exe
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Struct Demo\bin\Debug\Struct Demo.pdb
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Struct Demo\obj\Debug\Struct Demo.csproj.AssemblyReference.cache
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Struct Demo\obj\Debug\Struct Demo.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Struct Demo\obj\Debug\Struct Demo.exe
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Struct Demo\obj\Debug\Struct Demo.pdb

@@ -1,0 +1,7 @@
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Sum And Average\bin\Debug\Sum And Average.exe.config
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Sum And Average\bin\Debug\Sum And Average.exe
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Sum And Average\bin\Debug\Sum And Average.pdb
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Sum And Average\obj\Debug\Sum And Average.csproj.AssemblyReference.cache
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Sum And Average\obj\Debug\Sum And Average.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Sum And Average\obj\Debug\Sum And Average.exe
+C:\Users\Suraj\Desktop\C_Sharp_Programming\Sum And Average\obj\Debug\Sum And Average.pdb
